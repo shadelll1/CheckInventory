@@ -27,6 +27,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ИнвентарьУСотрудников</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.Итоги</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ЗагрузкаИнвентаряИзФайла</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.Тест</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -255,6 +255,7 @@
 			<Enum>СостоянияИнвентаря</Enum>
 			<Report>Итоги</Report>
 			<DataProcessor>ЗагрузкаИнвентаряИзФайла</DataProcessor>
+			<DataProcessor>Тест</DataProcessor>
 			<InformationRegister>ЦеныИнвентаря</InformationRegister>
 			<AccumulationRegister>ИнвентарьУСотрудников</AccumulationRegister>
 		</ChildObjects>

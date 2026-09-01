@@ -15,11 +15,12 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Подразделение" id="160107f2-2145-4712-a0cf-513091da07e5"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="efd744a6-079b-464c-8c16-955491753a89"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="e199738a-3618-4383-a247-d5cb2390d7d6" configVersion="492fe362a189d745942912b8562131c000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="e199738a-3618-4383-a247-d5cb2390d7d6" configVersion="4c3cc0f51c608842abbf121169878b2300000000"/>
 		<Metadata name="Constant.НаименованиеОрганизации" id="107910d3-a95c-4ad6-b976-26be0d896544" configVersion="b7d09da25c995c46ad7eeec60da0219f00000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаИнвентаряИзФайла" id="cc4abd6d-7906-4d4b-8822-8649b0ca1ffb" configVersion="a77dd57d5941834286b9fe6a0f017a5000000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаИнвентаряИзФайла.Form.Форма" id="baf2a566-83ab-49ed-a701-572c92b302be" configVersion="d4dd1dde1e13a548bedcfb4444d6fc8d00000000"/>
 		<Metadata name="DataProcessor.ЗагрузкаИнвентаряИзФайла.Form.Форма.Form" id="baf2a566-83ab-49ed-a701-572c92b302be.0" configVersion="8994a313ce35354a935744b0d6b13ae800000000"/>
+		<Metadata name="DataProcessor.Тест" id="c3d4c18e-8a5b-4ea7-bf30-1f32e9baa2bc" configVersion="34dcc82491a2bb44b3f3c5f50c30548f00000000"/>
 		<Metadata name="Document.ВозвратИнвентаря" id="3a90896d-bb75-45cb-9e6e-fc051ee4045b" configVersion="0bac48c97cb27240b499ca8709866e7800000000">
 			<Metadata name="Document.ВозвратИнвентаря.TabularSection.Позиции.Attribute.Инвентарь" id="27e0e60d-8ec1-4805-a3dd-c1b74bb80c95"/>
 			<Metadata name="Document.ВозвратИнвентаря.TabularSection.Позиции" id="7744bb8e-4e50-49ae-8dda-d60c6405690e"/>
@@ -58,6 +59,6 @@
 		<Metadata name="Report.Итоги" id="a07f5cb9-4c63-42f6-af27-899cb72d4544" configVersion="3128778024a285499e8fc7275775f81c00000000"/>
 		<Metadata name="Report.Итоги.Template.ОсновнаяСхемаКомпоновкиДанных" id="7f77df08-6069-44a1-a451-c14c0cec9b35" configVersion="90289992d68c5f4882a6052d31a4d56900000000"/>
 		<Metadata name="Report.Итоги.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7f77df08-6069-44a1-a451-c14c0cec9b35.0" configVersion="cbb0ea1879ddd84f9c3f928d0707772300000000"/>
-		<Metadata name="Subsystem.УчетИнвентаря" id="913fe4d0-6473-4e59-8216-df7fd6786747" configVersion="42f11740b0568c40918aca194952055300000000"/>
+		<Metadata name="Subsystem.УчетИнвентаря" id="913fe4d0-6473-4e59-8216-df7fd6786747" configVersion="2eaf1286856d7846b1cca6fa3ad6661200000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
